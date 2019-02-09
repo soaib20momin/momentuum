@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "name": "CivicTrack",
+    "icon": "./assets/img/appLogo.png",
+    "slug": "momentuum-civictrack",
+    "ios": {
+      "bundleIdentifier": "com.momentuum.civictrack"
+    },
+    "android": {
+      "package": "com.momentuum.civictrack"
+    }
+  }
+}
