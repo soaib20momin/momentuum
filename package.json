@@ -24,7 +24,7 @@
     "moment": "^2.22.1",
     "native-base": "^2.0.6",
     "react": "16.2.0",
-    "react-native": "^0.52.0",
+    "react-native": "^0.70.6",
     "react-native-datepicker": "^1.6.0",
     "react-native-elements": "^0.19.0",
     "react-native-form-builder": "^1.0.13",
